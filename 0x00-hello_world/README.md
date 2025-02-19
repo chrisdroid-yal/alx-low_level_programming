@@ -10,3 +10,6 @@ This is a subdirectory that contains submissions for the tasks in the ALX projec
 
 ## 2-assembler
 ### This is a file that contains the command to generate assembly code from c code and store it in an output file
+
+## 3-name
+### This is a file that compiles a c file into an executable called cisfun
