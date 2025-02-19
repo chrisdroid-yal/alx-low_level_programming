@@ -7,3 +7,6 @@ This is a subdirectory that contains submissions for the tasks in the ALX projec
 
 ## 1-compiler
 ### This is a file that contains the command to compile a c file but not link it
+
+## 2-assembler
+### This is a file that contains the command to generate assembly code from c code and store it in an output file
