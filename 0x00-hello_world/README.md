@@ -25,3 +25,6 @@ This is a subdirectory that contains submissions for the tasks in the ALX projec
 
 ## 100-intel
 ### This is a file that generates the assembly code (intel syntax) of a c code and saves it in an output file
+
+## 101-quote.c
+### This is a c program that prints exactly `and that piece of art is useful" - Dora Korpar, 2015-10-19` to stderr, followed by a new line

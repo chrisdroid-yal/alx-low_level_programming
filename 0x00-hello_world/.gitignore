@@ -4,3 +4,4 @@ main.*
 *.out
 size32
 size64
+quote
