@@ -4,6 +4,13 @@
 /* more headers goes there */
 
 /* betty style doc for function main goes there */
+
+/**
+ * main - Entry point of the progran
+ *
+ * Return: 0 (Always Success)
+ */
+
 int main(void)
 {
 	int n;
@@ -14,9 +21,9 @@ int main(void)
 	/* your code goes there */
 	if (n % 10 > 5)
 		o = "and is greater than 5";
-	else if (n == 0)
+	else if (n % 10 == 0)
 		o = "and is 0";
-	else if (n < 6 && n != 0)
+	else if (n % 10 < 6 && n != 0)
 		o = "and is less than 6 and not 0";
 	printf("Last digit of %i is %i %s\n", n, n % 10, o);
 	return (0);
