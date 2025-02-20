@@ -13,3 +13,6 @@ This is a subdirectory that contains submissions for the tasks in the ALX projec
 
 ## 3-print_alphabets.c
 ### This program prints the alphabet in both lowercase and uppercase using the `putchar` function
+
+## 4-print_alphabt.c
+### does the same as `2-print_alphabet.c`, excluding the letters q and e
