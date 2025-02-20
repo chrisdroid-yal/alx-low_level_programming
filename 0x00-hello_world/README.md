@@ -13,3 +13,6 @@ This is a subdirectory that contains submissions for the tasks in the ALX projec
 
 ## 3-name
 ### This is a file that compiles a c file into an executable called cisfun
+
+## 4-puts.c
+### This is a c program that prints exactly `"Programming is like building a multilingual puzzle` followed by a new line
