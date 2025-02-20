@@ -22,3 +22,6 @@ This is a subdirectory that contains submissions for the tasks in the ALX projec
 
 ## 6-size.c
 ### This is a c program that prints the sizes of various types on the computer it is compiled and run on.
+
+## 100-intel
+### This is a file that generates the assembly code (intel syntax) of a c code and saves it in an output file
