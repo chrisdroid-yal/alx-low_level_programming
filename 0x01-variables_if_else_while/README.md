@@ -9,4 +9,7 @@ This is a subdirectory that contains submissions for the tasks in the ALX projec
 ## This program prints the last digit of a number
 
 ## 2-print_alphabet.c
-### This program prints the alphabet using the `putchar` function
+### This program prints the alphabet in lower case using the `putchar` function
+
+## 3-print_alphabets.c
+### This program prints the alphabet in both lowercase and uppercase using the `putchar` function
