@@ -19,3 +19,6 @@ This is a subdirectory that contains submissions for the tasks in the ALX projec
 
 ## 5-printf.c
 ### This is a c program that prints exactly `with proper grammar, but the outcome is a piece of art,`, followed by a new line
+
+## 6-size.c
+### This is a c program that prints the sizes of various types on the computer it is compiled and run on.
