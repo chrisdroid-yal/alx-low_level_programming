@@ -16,3 +16,6 @@ This is a subdirectory that contains submissions for the tasks in the ALX projec
 
 ## 4-print_alphabt.c
 ### does the same as `2-print_alphabet.c`, excluding the letters q and e
+
+## 5-print_numbers.c
+### This program prints all single digit numbers of base 10, starting from 0, followed by a new line
