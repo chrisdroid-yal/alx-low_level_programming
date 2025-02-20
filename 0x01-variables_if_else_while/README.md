@@ -7,3 +7,6 @@ This is a subdirectory that contains submissions for the tasks in the ALX projec
 
 ## 1-last_digit.c
 ## This program prints the last digit of a number
+
+## 2-print_alphabet.c
+### This program prints the alphabet using the `putchar` function
