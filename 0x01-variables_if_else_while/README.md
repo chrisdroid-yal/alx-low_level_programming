@@ -25,3 +25,6 @@ This is a subdirectory that contains submissions for the tasks in the ALX projec
 
 ## 7-print_tebahpla.c
 ### Prints the lowercase alphabet in reverse using the `putchar` function
+
+## 8-print_base16.c
+### Does the same as `6-print_numberz.c`, but for base 16
