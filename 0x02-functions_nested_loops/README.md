@@ -13,3 +13,6 @@ This is a subdirectory that contains submissions for the tasks in the ALX projec
 
 ## 3-islower.c
 ### This is a C file that contains a function that checks for a lowercase character
+
+## 4-isalpha.c
+### This file contains a function that checks for an alphabetic character
