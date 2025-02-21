@@ -16,3 +16,6 @@ This is a subdirectory that contains submissions for the tasks in the ALX projec
 
 ## 4-isalpha.c
 ### This file contains a function that checks for an alphabetic character
+
+## 5-sign.c
+### Contains a function that checks for the sign of a number
