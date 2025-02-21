@@ -30,4 +30,7 @@ This is a subdirectory that contains submissions for the tasks in the ALX projec
 ### Does the same as `6-print_numberz.c`, but for base 16
 
 ## 9-print_comb.c
-## Prints all possible combinations of single digit numbers
+### Prints all possible combinations of single digit numbers
+
+## 100-print_comb3.c
+### Prints all possible combinations of double digit numbers
