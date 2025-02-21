@@ -10,3 +10,6 @@ This is a subdirectory that contains submissions for the tasks in the ALX projec
 
 ## 2-print_alphabet_x10.c
 ### This is a C file that contains a function that prints the alphabet in lowercase 10 times, followed by a new line
+
+## 3-islower.c
+### This is a C file that contains a function that checks for a lowercase character
