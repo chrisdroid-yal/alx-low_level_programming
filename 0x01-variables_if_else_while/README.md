@@ -34,3 +34,6 @@ This is a subdirectory that contains submissions for the tasks in the ALX projec
 
 ## 100-print_comb3.c
 ### Prints all possible combinations of double digit numbers
+
+## 101-print_comb4.c
+### Prints all possible combinations of triple digit numbers
