@@ -4,3 +4,6 @@ This is a subdirectory that contains submissions for the tasks in the ALX projec
 
 ## 0-putchar.c
 ### This program prints `_putchar`, followed by a new line
+
+## 1-alphabet.c
+### This is a C file that contains a function that prints the alphabet in lowercase followed by a new line
