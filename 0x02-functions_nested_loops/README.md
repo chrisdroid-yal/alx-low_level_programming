@@ -19,3 +19,6 @@ This is a subdirectory that contains submissions for the tasks in the ALX projec
 
 ## 5-sign.c
 ### Contains a function that checks for the sign of a number
+
+## 6-abs.c
+### Contains a function that returns the absolute value of a number
