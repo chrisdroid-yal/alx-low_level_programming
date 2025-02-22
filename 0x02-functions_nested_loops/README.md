@@ -22,3 +22,6 @@ This is a subdirectory that contains submissions for the tasks in the ALX projec
 
 ## 6-abs.c
 ### Contains a function that returns the absolute value of a number
+
+## 7-print_last_digit.c
+### Contains a function that prints the last digit of a number
