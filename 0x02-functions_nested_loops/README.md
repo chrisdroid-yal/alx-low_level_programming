@@ -31,3 +31,6 @@ This is a subdirectory that contains submissions for the tasks in the ALX projec
 
 ## 9-times_table.c
 ### Contains a function that the 9 times table
+
+## 10-add.c
+### Contains a function that adds two integers
