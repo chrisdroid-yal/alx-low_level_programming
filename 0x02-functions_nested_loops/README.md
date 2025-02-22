@@ -28,3 +28,6 @@ This is a subdirectory that contains submissions for the tasks in the ALX projec
 
 ## 8-24_hours.c
 ### Contains a function that prints every minute of the day of Jack Bauer
+
+## 9-times_table.c
+### Contains a function that the 9 times table
