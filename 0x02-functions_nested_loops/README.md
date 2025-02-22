@@ -25,3 +25,6 @@ This is a subdirectory that contains submissions for the tasks in the ALX projec
 
 ## 7-print_last_digit.c
 ### Contains a function that prints the last digit of a number
+
+## 8-24_hours.c
+### Contains a function that prints every minute of the day of Jack Bauer
