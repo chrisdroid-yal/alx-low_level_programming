@@ -30,7 +30,13 @@ This is a subdirectory that contains submissions for the tasks in the ALX projec
 ### Contains a function that prints every minute of the day of Jack Bauer
 
 ## 9-times_table.c
-### Contains a function that the 9 times table
+### Contains a function that prints the 9 times table
 
 ## 10-add.c
 ### Contains a function that adds two integers
+
+## 11-print_to_98.c
+### Contains a function that prints natural numbers from n to 98
+
+## 100-times_table.c
+### Contains a function that prints the n times table
